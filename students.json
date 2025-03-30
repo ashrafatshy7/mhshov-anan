@@ -1,0 +1,23 @@
+[
+  {
+    "firstName": "Ashraf",
+    "lastName": "Atshy",
+    "email": "ashraf.atshy@e.braude.ac.il",
+    "courses": [
+      "web",
+      "Java"
+    ],
+    "link": "google.com",
+    "favorite": "eeeeeeyyyy"
+  },
+  {
+    "firstName": "Kian",
+    "lastName": "Gadban",
+    "email": "kian.gadban@e.braude.ac.il",
+    "courses": [
+      "Anan",
+      "Logic"
+    ],
+    "link": "youtube.com"
+  }
+]
